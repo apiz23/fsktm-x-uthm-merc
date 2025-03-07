@@ -6,7 +6,7 @@ export default function Index() {
 	return (
 		<>
 			<div className="min-h-screen bg-black">
-				<div className="text-white p-5 md:px-48 pt-52 md:pb-20">
+				<div className="text-white p-5 md:px-48 pt-36 md:pb-20">
 					<Link
 						href="https://docs.google.com/forms/d/e/1FAIpQLSeziz1jwuEXFqqbW6y5jnHSw1O0mfr0GMsFyU5pIQBOi8bPEA/viewform"
 						target="_blank"

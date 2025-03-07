@@ -82,7 +82,7 @@ export default function Home() {
 						</div>
 					</div>
 				</main>
-				<div className="h-[80vh] md:h-[120vh] p-10 md:pt-32 pt-28 text-white">
+				<div className="min-h-[80vh] md:h-[120vh] p-10 md:pt-32 pt-28 text-white pb-10">
 					<TextAnimate
 						animation="fadeIn"
 						by="line"
